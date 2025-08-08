@@ -71,10 +71,6 @@ const Index = () => {
                   <Icon name="Phone" className="mr-2" size={20} />
                   Получить консультацию
                 </Button>
-                <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-primary">
-                  <Icon name="FileText" className="mr-2" size={20} />
-                  Наши услуги
-                </Button>
               </div>
             </div>
             <div className="relative">
