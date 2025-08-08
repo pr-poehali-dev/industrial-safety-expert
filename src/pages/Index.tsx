@@ -62,10 +62,7 @@ const Index = () => {
               <h1 className="text-4xl md:text-5xl font-bold mb-6">
                 Экспертиза промышленной безопасности
               </h1>
-              <p className="text-xl mb-8 opacity-90">
-                Профессиональные услуги по проведению экспертизы документации 
-                на техническое перевооружение опасных производственных объектов
-              </p>
+              <p className="text-xl mb-8 opacity-90">промышленная безопасность под контролем</p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Button size="lg" variant="secondary" className="bg-white text-primary hover:bg-gray-100">
                   <Icon name="Phone" className="mr-2" size={20} />
