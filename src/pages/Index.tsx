@@ -122,26 +122,26 @@ const Index = () => {
             <div>
               <h2 className="text-3xl font-bold mb-6">О компании</h2>
               <p className="text-muted-foreground mb-6">
-                ЭкспертПром — ведущая компания в области экспертизы промышленной безопасности 
-                с более чем 15-летним опытом работы. Мы специализируемся на проведении 
-                независимой экспертизы документации для опасных производственных объектов.
+                ЭкспертПром — динамично развивающаяся компания в области экспертизы промышленной безопасности. 
+                Мы гарантируем привлечение только квалифицированных специалистов с соответствующими 
+                лицензиями и аттестациями для каждого проекта.
               </p>
               <div className="grid grid-cols-2 gap-4 mb-6">
                 <div className="text-center">
-                  <div className="text-2xl font-bold text-primary">500+</div>
-                  <div className="text-sm text-muted-foreground">Выполненных проектов</div>
-                </div>
-                <div className="text-center">
-                  <div className="text-2xl font-bold text-primary">15+</div>
-                  <div className="text-sm text-muted-foreground">Лет опыта</div>
-                </div>
-                <div className="text-center">
-                  <div className="text-2xl font-bold text-primary">50+</div>
-                  <div className="text-sm text-muted-foreground">Экспертов</div>
+                  <div className="text-2xl font-bold text-primary">100%</div>
+                  <div className="text-sm text-muted-foreground">Квалифицированные эксперты</div>
                 </div>
                 <div className="text-center">
                   <div className="text-2xl font-bold text-primary">24/7</div>
-                  <div className="text-sm text-muted-foreground">Поддержка</div>
+                  <div className="text-sm text-muted-foreground">Техническая поддержка</div>
+                </div>
+                <div className="text-center">
+                  <div className="text-2xl font-bold text-primary">Гибкий</div>
+                  <div className="text-sm text-muted-foreground">Подход к задачам</div>
+                </div>
+                <div className="text-center">
+                  <div className="text-2xl font-bold text-primary">Полная</div>
+                  <div className="text-sm text-muted-foreground">Ответственность</div>
                 </div>
               </div>
             </div>
